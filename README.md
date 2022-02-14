@@ -23,7 +23,13 @@ How to reach me:
 
 <br>
 
+<div align="center">
+<a href="https://github.com/risozhor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=risozhor&repo=risozhor" />
+</a>
 
+</div>
+<br>
 <!--- - 💞️ I’m looking to collaborate on ...--->
 
 Is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
