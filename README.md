@@ -14,12 +14,15 @@ How to reach me:
 [![badges](https://badges.aleen42.com/src/telegram.svg)](https://t.me/risozhor) 
 
 <br>
+<a href="https://www.buymeacoffee.com/Smarty.Ninja" target="_blank"><img align="center" src="https://badges.aleen42.com/src/buymeacoffee.svg" /></a> <a href="https://github.com/risozhor" target="_blank"><img align="center" src="https://badges.aleen42.com/src/paypal.svg" /></a>
 
 
 - 👋 Hi, I’m Oleksandr
 - 👀 I’m interested in Web development and Smart Home building ;)
 - 🔭 I’m currently working on UMH Publishing
 - 🌱 I’m currently learning ![badges](https://badges.aleen42.com/src/angular.svg)
+
+- https://www.smarty.ninja/
 
 <br>
 
