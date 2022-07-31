@@ -14,7 +14,11 @@ How to reach me:
 [![badges](https://badges.aleen42.com/src/telegram.svg)](https://t.me/risozhor) 
 
 <br>
-<a href="https://www.buymeacoffee.com/Smarty.Ninja" target="_blank"><img align="center" src="https://badges.aleen42.com/src/buymeacoffee.svg" /></a> <a href="https://github.com/risozhor" target="_blank"><img align="center" src="https://badges.aleen42.com/src/paypal.svg" /></a>
+
+[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)]([https://www.smarty.ninja/](https://www.smarty.ninja/))
+
+
+<a href="https://www.buymeacoffee.com/Smarty.Ninja" target="_blank"><img align="center" src="https://badges.aleen42.com/src/buymeacoffee.svg" /></a> <a href="[https://github.com/risozhor](https://www.paypal.com/donate/?hosted_button_id=VWMGGY5S8LNCW)" target="_blank"><img align="center" src="https://badges.aleen42.com/src/paypal.svg" /></a>
 
 
 - 👋 Hi, I’m Oleksandr
