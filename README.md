@@ -32,7 +32,7 @@ How to reach me:
 <a href="https://github.com/risozhor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=risozhor&repo=risozhor&theme=dark&show_icons=true&show_owner=true" />
 </a>
- <a href="https://github.com/repo=ha-config">
+ <a href="https://github.com/risozhor/ha-config">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=risozhor&repo=ha-config&theme=dark&show_icons=true&show_owner=true" />
 </a>
 </div>
