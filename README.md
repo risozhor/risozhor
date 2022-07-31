@@ -41,3 +41,35 @@ How to reach me:
 
 Is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
+## Status Information
+
+| Current Home Assistant that I use | [![HA Version][ha-version-shield]][home-assistant] |
+|:---:|:---:|
+
+## Current House Configuration
+
+Below is a list of all hardware in-house
+
+**My host system:**
+- [x] todo
+- [ ] todo
+- [ ] todo
+
+
+<!-- Shield -->
+[ha-version-shield]: https://img.shields.io/badge/Home%20Assistant-2022.7.7-blue.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
+
+
+<!-- Repository links -->
+
+[home-assistant]: https://home-assistant.io
+[smarthome]: https://github.com/risozhor/ha-config
+[smarthomes]: https://github.com/risozhor?tab=repositories&q=ha-config
+
+<!-- Products -->
+
+
+<!-- Blogs -->
