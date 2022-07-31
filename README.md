@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=risozhor&show_icons=true&theme=merko" height="160px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risozhor&layout=compact&theme=merko" height="160px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risozhor&layout=compact&theme=merko&langs_count=8" height="160px" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=risozhor&repo=ha-config&theme=merko&langs_count=8" />
 </div>
 
 
